@@ -1,0 +1,11 @@
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\bin\Debug\netcoreapp1.0\StopGuessing.deps.json
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\bin\Debug\netcoreapp1.0\StopGuessing.runtimeconfig.json
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\bin\Debug\netcoreapp1.0\StopGuessing.runtimeconfig.dev.json
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\bin\Debug\netcoreapp1.0\StopGuessing.dll
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\bin\Debug\netcoreapp1.0\StopGuessing.pdb
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.csproj.CoreCompileInputs.cache
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.AssemblyInfoInputs.cache
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.AssemblyInfo.cs
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.dll
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.pdb
+C:\Users\Sanjida\Downloads\StopGuessing-master-version2\StopGuessing-master\StopGuessing\obj\Debug\netcoreapp1.0\StopGuessing.csprojAssemblyReference.cache

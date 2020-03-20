@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{22C611CE-29B3-4F1E-A741-13B8B5CC0DCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSimulationAnalysisOldRuntime", "PostSimulationAnalysisOldRuntime\PostSimulationAnalysisOldRuntime.csproj", "{0E1898E6-417D-463D-A0C7-7D4A53452538}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binomial Ladder Sketch Parameter Calculator", "Binomial Ladder Sketch Parameter Calculator\Binomial Ladder Sketch Parameter Calculator.csproj", "{A5CE9C56-5AD2-486C-87DD-782D6178A799}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopGuessing", "StopGuessing\StopGuessing.csproj", "{39C5479B-744F-4F2B-AD22-3BB4BBAE3B3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StopGuessingTests", "StopGuessingTests\StopGuessingTests.csproj", "{D0F070FB-CF09-41DE-99DF-9193705FB1AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simulator", "Simulator\Simulator.csproj", "{4968AAA1-C21A-42F2-AC43-A5A11FEB1B66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E1898E6-417D-463D-A0C7-7D4A53452538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E1898E6-417D-463D-A0C7-7D4A53452538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E1898E6-417D-463D-A0C7-7D4A53452538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E1898E6-417D-463D-A0C7-7D4A53452538}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CE9C56-5AD2-486C-87DD-782D6178A799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CE9C56-5AD2-486C-87DD-782D6178A799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CE9C56-5AD2-486C-87DD-782D6178A799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CE9C56-5AD2-486C-87DD-782D6178A799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39C5479B-744F-4F2B-AD22-3BB4BBAE3B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C5479B-744F-4F2B-AD22-3BB4BBAE3B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C5479B-744F-4F2B-AD22-3BB4BBAE3B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C5479B-744F-4F2B-AD22-3BB4BBAE3B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F070FB-CF09-41DE-99DF-9193705FB1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F070FB-CF09-41DE-99DF-9193705FB1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F070FB-CF09-41DE-99DF-9193705FB1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F070FB-CF09-41DE-99DF-9193705FB1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4968AAA1-C21A-42F2-AC43-A5A11FEB1B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4968AAA1-C21A-42F2-AC43-A5A11FEB1B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4968AAA1-C21A-42F2-AC43-A5A11FEB1B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4968AAA1-C21A-42F2-AC43-A5A11FEB1B66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A15114D0-6899-490F-A4BD-6FC84E132640}
+	EndGlobalSection
+EndGlobal

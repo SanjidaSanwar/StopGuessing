@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Sanjida\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Sanjida\\.nuget\\packages"
+    ]
+  }
+}

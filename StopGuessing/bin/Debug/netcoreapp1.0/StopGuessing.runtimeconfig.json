@@ -1,0 +1,13 @@
+{
+  "runtimeOptions": {
+    "tfm": "netcoreapp1.0",
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "1.0.4"
+    },
+    "gcServer": true,
+    "configProperties": {
+      "System.GC.Server": true
+    }
+  }
+}
